@@ -1,4 +1,4 @@
-# GameJam2017-1
+# GameJam2017
 
 This is for all code and documentation regarding my group Game Jam 2017 project.
 
